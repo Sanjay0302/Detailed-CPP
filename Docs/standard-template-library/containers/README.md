@@ -6,8 +6,6 @@ icon: box-taped
 
 Containers are used to store and manage collections of objects. They provide various ways to organize and access data, and they come with built-in functionalities for manipulation; It contains 4 types of containers:
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
-
 1.  **Sequence Container**:&#x20;
 
     Such as `vector`, `list`, `deque`; which stores element in sequential order.

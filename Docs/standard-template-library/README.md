@@ -14,6 +14,10 @@
 
 ### The main components of STL Library
 
+{% file src="../.gitbook/assets/Standard template library.png" %}
+Graphically catagorised Standard Template Library
+{% endfile %}
+
 1. [**Containers**](containers/) **:** in C++ STL are used to store and manage collections of objects, offering various ways to organize and access data with built-in manipulation functionalities. They are categorized into four types:&#x20;
    1. **Sequence Containers** (e.g., `vector`, `list`, `deque`) that store elements in sequential order;&#x20;
    2. **Associative Containers** (e.g., `set`, `map`, `multiset`, `multimap`) that allow fast retrieval based on keys;&#x20;
@@ -23,5 +27,3 @@
 3. [**Iterators**](iterators.md) **:** Iterators are objects that provide a way to access the elements of a container sequentially without exposing the underlying representation. They act as a bridge between containers and algorithms, allowing algorithms to work with any container that supports iterators.
 4. [**Function Objects or Functors**](function-object-or-functors.md) : These are objects that can be called as if they were functions. They are often used to customize the behavior of algorithms.
 5. [**Allocators**](allocators.md) **:** The STL provides a mechanism for memory management through allocators, which define how memory is allocated and deallocated for containers.
-
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
