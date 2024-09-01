@@ -23,3 +23,5 @@
 3. [**Iterators**](iterators.md) **:** Iterators are objects that provide a way to access the elements of a container sequentially without exposing the underlying representation. They act as a bridge between containers and algorithms, allowing algorithms to work with any container that supports iterators.
 4. [**Function Objects or Functors**](function-object-or-functors.md) : These are objects that can be called as if they were functions. They are often used to customize the behavior of algorithms.
 5. [**Allocators**](allocators.md) **:** The STL provides a mechanism for memory management through allocators, which define how memory is allocated and deallocated for containers.
+
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>

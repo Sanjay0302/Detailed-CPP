@@ -21,3 +21,4 @@
   * [Iterators](standard-template-library/iterators.md)
   * [Function Object or Functors](standard-template-library/function-object-or-functors.md)
   * [Allocators](standard-template-library/allocators.md)
+  * [Exception Handling STL](standard-template-library/exception-handling-stl.md)
